@@ -1,0 +1,50 @@
+<!DOCTYPE html PUBLIC "-//W3C/DTD XHTML 1.0 Strict//En"
+"http?ww.w2org/TR/xhtmll/DTDxhtmll-strict.dtd">
+
+<html>
+    <head> 
+            <title>Pretexting</title>
+    </head>
+    <body>
+        <h1>Pretexting</h1>
+        <h2> What is Pretexting?</h2>
+        <b>Emily Mam</b>
+        <p>
+            When it comes to social engineering, pretexting is a social engineering tactic that 
+            manipulates their victim. This is done to get its user to share personal information. 
+            Usally a scenario is made up to scare its victim into sharing their personal information. 
+            This is done by the attacker pretending to be someone in a higher position than the victim. 
+
+            <b></b>
+
+            This is an <a https://www.imperva.com/learn/application-security/pretexting/</a>" article</a> of what pretexting is and the different types of pretexting tactics. 
+            
+
+            <br></br>
+        
+            <img src="in-post-01pretexting-101.jpg"
+            
+
+        </p>
+
+        <h2> How Pretexting happens</h2>
+        </body>p> 
+        When a pretexting attack is happening, there is usally
+         an impersonation that is happening. 
+        Most attackers pretend to be someone in a 
+        higher position than the victim to gain some form of credability.
+        This allows for the victim to trust the attacker. Once some form of realtionship is formed 
+        the attacker will ask the victim for personal information in order to steal it. 
+        An attacker might also trick its victim into prefroming certain actions to exploit them. 
+
+        <br><br>
+
+
+
+
+
+
+    
+        </p>
+    </body>
+</html>
